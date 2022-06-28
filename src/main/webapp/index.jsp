@@ -2,7 +2,7 @@
 
 <%
 int n = Integer.parseInt(request.getParameter("num"));
-intnum,i,count;
+int num,i,count;
 for(num=1;num<=n;num++)
 {
 count=0;
